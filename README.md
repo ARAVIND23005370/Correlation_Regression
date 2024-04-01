@@ -1,4 +1,8 @@
+## NAME: RAKSHITHA .P
+## REGISTER NUMBER:212223220083
+
 # Correlation and regression for data analysis
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
